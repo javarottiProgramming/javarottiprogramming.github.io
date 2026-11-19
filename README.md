@@ -1,4 +1,4 @@
-# Javarote AD
+# Javarotti AD
 
 Página pública (GitHub Pages) dos jogos de Pedro Javarotti. Serve para tudo que uma loja ou rede de anúncio precisa ler numa URL pública:
 **políticas de privacidade** e **`app-ads.txt`** (AdMob e outras redes), e o que mais surgir. Um só repositório para todos os jogos.
