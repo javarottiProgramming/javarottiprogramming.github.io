@@ -1,4 +1,4 @@
-# Javarote AD
+# Javarotti AD
 
 Repositório **público** e comum a todos os jogos de Pedro Javarotti: políticas de privacidade e `app-ads.txt`. Tudo em português.
 Estrutura e regras: `README.md`.
